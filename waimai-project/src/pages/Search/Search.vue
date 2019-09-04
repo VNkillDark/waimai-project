@@ -5,7 +5,7 @@
 </template>
 
 <script>
-  export default {}
+export default {}
 </script>
 
  <!-- stylus 预处理器 <-->
